@@ -31,3 +31,8 @@ Route::get('/menu', function () {
     return view('menu');
 });
 
+Route::get('/tugasLaporan', function () {
+    return view('tugasLaporan');
+});
+
+
