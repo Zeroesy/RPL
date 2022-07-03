@@ -5,7 +5,7 @@
 <br><br><br>
 <div class="container">
     <div class="my-2">
-        <a class="btn btn-success" data-bs-toggle="modal" data-bs-target="#tambahlaporan">Add New</a><br>
+        <a class="btn btn-success" data-bs-toggle="modal" data-bs-target="#tambahlaporan"><i class="bi bi-plus-lg"></i> Add New</a><br>
     </div>
     <table  class="table table-bordered table-hover">
         <tr>
