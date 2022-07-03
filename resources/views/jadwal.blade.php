@@ -1,12 +1,12 @@
 @extends('layouts.master')
 
 @section('content')
-
-<div class="position-absolute top-0 end-0" style="margin-top: 3%">
-<h5>JADWAL PENTING<button type="button" class="btn btn-success"><i class="bi bi-plus"></i></button></h5>
+<br><br><br>
+<div class="pagination justify-content-end my-4" style="margin-right: 15%">
+    <h5>JADWAL PENTING <button type="button" class="btn btn-success"><i class="bi bi-plus"></i></button></h5>
 </div>
-<div class="dropdown position-absolute top-0 end-0" style="margin-top: 5%">
-    Bulan
+<div class="pagination justify-content-end my-4" style="margin-right: 15%">
+    <label class="fs-4">Bulan <label>
     <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
     Mei
     </button>
@@ -16,7 +16,7 @@
         <li><a class="dropdown-item">Juli</a></li>
     </ul>
 </div>
-
+<div class="main">
 <div class="container mt-5">
     <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
@@ -62,6 +62,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 
 @endsection
