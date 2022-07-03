@@ -16,10 +16,16 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-
+Route::get('/signup', function () {
+    return view('signup');
+});
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/jadwal', function () {
+    return view('jadwal');
+});
+
 
 Route::get('/menu', function () {
     return view('menu');
