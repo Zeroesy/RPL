@@ -32,7 +32,7 @@
                     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false"><i class="bi bi-person-fill"></i></a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="#scrollspyHeading3">Akun</a></li>
-                        <li><a class="dropdown-item" href="logout.php">Keluar</a></li>
+                        <li><a class="dropdown-item" href="/login">Keluar</a></li>
                     </ul>
                     </li>
                 </ul>
