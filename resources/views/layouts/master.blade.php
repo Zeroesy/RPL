@@ -32,7 +32,7 @@
                     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false"><i class="bi bi-person-fill"></i></a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="#scrollspyHeading3">Akun</a></li>
-                        <li><a class="dropdown-item" href="logout.php">Keluar</a></li>
+                        <li><a class="dropdown-item" href="/login">Keluar</a></li>
                     </ul>
                     </li>
                 </ul>
@@ -47,13 +47,13 @@
                             <a class="nav-link active" aria-current="page" href="/jadwal"><i class="bi bi-calendar3"></i>  Jadwal</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link active" aria-current="page" href="/signup"><i class="bi bi-journal-text"></i>  Tugas dan Laporan</a>
+                            <a class="nav-link active" aria-current="page" href="/tugasLaporan"><i class="bi bi-journal-text"></i>  Tugas dan Laporan</a>
                         </li>
                         <li class="nav-item active">
                             <a class="nav-link active" aria-current="page" href="presensi.php"><i class="bi bi-clock-fill"></i>  Presensi</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link active" aria-current="page" href="surat.php"><i class="bi bi-envelope-fill"></i>  Surat-surat</a>
+                            <a class="nav-link active" aria-current="page" href="/surat"><i class="bi bi-envelope-fill"></i>  Surat-surat</a>
                         </li>
                         <li class="nav-item active">
                             <a class="nav-link active" aria-current="page" href="keuangan.php"><i class="bi bi-graph-up-arrow"></i>  Keuangan</a>
