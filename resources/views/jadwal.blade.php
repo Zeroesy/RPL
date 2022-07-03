@@ -22,15 +22,17 @@
         <div class="col">
             <div class="card h-100 w-75">
             <div class="card-header">
-                <h5 class="fs-4">4 Mei 2022</h5>
+                <h5 class="fs-4 text-center">4 Mei 2022</h5>
             </div>
             <div class="card-body">
                 <!-- <h5 class="card-title">4 Mei 2022</h5> -->
+                <br>
                 <p class="card-text fs-2 text-center">Rapat Besar</p>
+                <br>
             </div>
             <div class="card-footer text-center">
                 <small class="text-muted">
-                    <button type="button" class="btn btn-warning">Edit</button>
+                    <button type="button" class="btn btn-warning">&nbsp;Edit&nbsp;</button>
                     <button type="button" class="btn btn-danger">Hapus</button> 
                 </small>
             </div>
@@ -38,13 +40,18 @@
         </div>
         <div class="col">
             <div class="card h-100 w-75">
+            <div class="card-header">
+                <h5 class="fs-4 text-center">8 Mei 2022</h5>
+            </div>
             <div class="card-body">
-                <h5 class="card-title">8 Mei 2022</h5>
+                <!-- <h5 class="card-title">8 Mei 2022</h5> -->
+                <br>
                 <p class="card-text fs-2 text-center">Hari Gajian</p>
+                <br>
             </div>
             <div class="card-footer text-center">
                 <small class="text-muted">
-                    <button type="button" class="btn btn-warning">Edit</button>
+                    <button type="button" class="btn btn-warning">&nbsp;Edit&nbsp;</button>
                     <button type="button" class="btn btn-danger">Hapus</button> 
                 </small>
             </div>
@@ -52,13 +59,18 @@
         </div>
         <div class="col">
             <div class="card h-100 w-75">
+            <div class="card-header">
+                <h5 class="fs-4 text-center">15 Mei 2022</h5>
+            </div>
             <div class="card-body">
-                <h5 class="card-title">15 Mei 2022</h5>
+                <!-- <h5 class="card-title">15 Mei 2022</h5> -->
+                <br>
                 <p class="card-text fs-2 text-center">Party Perusahaan</p>
+                <br>
             </div>
             <div class="card-footer text-center">
                 <small class="text-muted">
-                    <button type="button" class="btn btn-warning">Edit</button>
+                    <button type="button" class="btn btn-warning">&nbsp;Edit&nbsp;</button>
                     <button type="button" class="btn btn-danger">Hapus</button> 
                 </small>
             </div>
