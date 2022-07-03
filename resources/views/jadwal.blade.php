@@ -18,14 +18,17 @@
 </div>
 <div class="main">
 <div class="container mt-5">
-    <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="row row-cols-1 row-cols-md-3 g-4" style="margin-left: 5%">
         <div class="col">
             <div class="card h-100 w-75">
-            <div class="card-body">
-                <h5 class="card-title">4 Mei 2022</h5>
-                <p class="card-text">Rapat Besar</p>
+            <div class="card-header">
+                <h5 class="fs-4">4 Mei 2022</h5>
             </div>
-            <div class="card-footer">
+            <div class="card-body">
+                <!-- <h5 class="card-title">4 Mei 2022</h5> -->
+                <p class="card-text fs-2 text-center">Rapat Besar</p>
+            </div>
+            <div class="card-footer text-center">
                 <small class="text-muted">
                     <button type="button" class="btn btn-warning">Edit</button>
                     <button type="button" class="btn btn-danger">Hapus</button> 
@@ -37,9 +40,9 @@
             <div class="card h-100 w-75">
             <div class="card-body">
                 <h5 class="card-title">8 Mei 2022</h5>
-                <p class="card-text">Hari Gajian</p>
+                <p class="card-text fs-2 text-center">Hari Gajian</p>
             </div>
-            <div class="card-footer">
+            <div class="card-footer text-center">
                 <small class="text-muted">
                     <button type="button" class="btn btn-warning">Edit</button>
                     <button type="button" class="btn btn-danger">Hapus</button> 
@@ -51,9 +54,9 @@
             <div class="card h-100 w-75">
             <div class="card-body">
                 <h5 class="card-title">15 Mei 2022</h5>
-                <p class="card-text">Party Perusahaan</p>
+                <p class="card-text fs-2 text-center">Party Perusahaan</p>
             </div>
-            <div class="card-footer">
+            <div class="card-footer text-center">
                 <small class="text-muted">
                     <button type="button" class="btn btn-warning">Edit</button>
                     <button type="button" class="btn btn-danger">Hapus</button> 
