@@ -97,7 +97,7 @@
         <div class="row mb-3">
         <label for="event" class="col-sm-2 col-form-label">Event</label>
         <div class="col-sm-10">
-        <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+        <textarea class="form-control" id="floatingTextarea2" style="height: 100px"></textarea>
         </div>
         </div>
         </form>
