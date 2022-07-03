@@ -26,7 +26,7 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="navbar-brand " href="#"><h5>Office Planner</h5></a>
+                <a class="navbar-brand " href="/menu"><h5>Office Planner</h5></a>
                 <ul class="nav nav-pills">
                     <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false"><i class="bi bi-person-fill"></i></a>

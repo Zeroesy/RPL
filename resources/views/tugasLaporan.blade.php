@@ -4,7 +4,9 @@
 
 <br><br><br>
 <div class="container">
-    <a class="btn btn-success">Add New</a><br>
+    <div class="my-2">
+        <a class="btn btn-success">Add New</a><br>
+    </div>
     <table  class="table table-bordered table-hover">
         <tr>
             <td>Keterangan</td>

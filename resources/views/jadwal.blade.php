@@ -3,7 +3,7 @@
 @section('content')
 <br><br><br>
 <div class="pagination justify-content-end my-4" style="margin-right: 15%">
-    <h5>JADWAL PENTING <button type="button" class="btn btn-success"><i class="bi bi-plus"></i></button></h5>
+    <h5>JADWAL PENTING <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#tambahjadwal"><i class="bi bi-plus"></i></button></h5>
 </div>
 <div class="pagination justify-content-end my-4" style="margin-right: 15%">
     <label class="fs-4">Bulan <label>
@@ -78,6 +78,35 @@
         </div>
     </div>
 </div>
+</div>
+
+<div class="modal fade" id="tambahjadwal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <form>
+        <div class="row mb-3">
+            <label for="date" class="col-sm-2 col-form-label">Tanggal</label>
+        <div class="col-sm-10">
+            <input type="date" class="form-control" id="inputEmail3">
+        </div>
+        </div>
+        <div class="row mb-3">
+        <label for="event" class="col-sm-2 col-form-label">Event</label>
+        <div class="col-sm-10">
+        <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+        </div>
+        </div>
+        </form>
+      </div>
+      <div class="modal-footer mx-auto">
+        <button type="button" class="btn btn-success">Simpan</button>
+      </div>
+    </div>
+  </div>
 </div>
 
 @endsection
