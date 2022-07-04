@@ -50,7 +50,7 @@
                             <a class="nav-link active" aria-current="page" href="/tugasLaporan"><i class="bi bi-journal-text"></i>  Tugas dan Laporan</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link active" aria-current="page" href="presensi.php"><i class="bi bi-clock-fill"></i>  Presensi</a>
+                            <a class="nav-link active" aria-current="page" href="/presensi"><i class="bi bi-clock-fill"></i>  Presensi</a>
                         </li>
                         <li class="nav-item active">
                             <a class="nav-link active" aria-current="page" href="/surat"><i class="bi bi-envelope-fill"></i>  Surat-surat</a>

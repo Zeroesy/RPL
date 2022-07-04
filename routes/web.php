@@ -38,3 +38,7 @@ Route::get('/tugasLaporan', function () {
 Route::get('/surat', function () {
     return view('surat');
 });
+
+Route::get('/presensi', function () {
+    return view('presensi');
+});
