@@ -68,7 +68,7 @@
         </div>
     </div>
     <div class="text-center" style="margin-right: 20%;">
-        <button type="button" class="btn btn-success fw-bold rounded-pill border-dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+        <a href="{{ route('login') }}"><button type="button" class="btn btn-success fw-bold rounded-pill border-dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simpan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button></a>
     </div>
     </form>
     </div>
