@@ -56,10 +56,10 @@
                             <a class="nav-link active" aria-current="page" href="/surat"><i class="bi bi-envelope-fill"></i>  Surat-surat</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link active" aria-current="page" href="keuangan.php"><i class="bi bi-graph-up-arrow"></i>  Keuangan</a>
+                            <a class="nav-link active" aria-current="page" href="/menu"><i class="bi bi-graph-up-arrow"></i>  Keuangan</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link active" aria-current="page" href="menu.php"><i class="bi bi-gear-fill"></i>  Upgrade Fitur</a>
+                            <a class="nav-link active" aria-current="page" href="/menu"><i class="bi bi-gear-fill"></i>  Upgrade Fitur</a>
                         </li>
                     </ul>
                 </div>
